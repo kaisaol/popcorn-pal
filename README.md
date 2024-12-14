@@ -178,6 +178,10 @@ The actual environment variables needed to run the application can be found in o
 ## How To Test
 
 ### End to end tests
+
+**NOTE:** The backend must be running locally for end-to-end tests to work. Follow the guide in the [backend README](./backend/README.md) on how to start the backend locally.  
+(The above note was added after the submission date. Hopefully that is okay)
+
 Open a new terminal
 
 navigate to the frontend directory
