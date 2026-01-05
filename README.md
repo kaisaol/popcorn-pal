@@ -1,6 +1,5 @@
 # Popcorn Pal 🍿
-
-Link to our website http://it2810-21.idi.ntnu.no/project2/
+This is a clone of the original repository.
 
 ## Table of contents
 
